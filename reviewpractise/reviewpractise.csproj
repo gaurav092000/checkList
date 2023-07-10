@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>reviewpractise.Class4</StartupObject>
+    <StartupObject>reviewpractise.diff_enumable_emuntor</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,12 +54,15 @@
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
+    <Compile Include="diff_enumable_emuntor.cs" />
+    <Compile Include="enumerable1.cs" />
     <Compile Include="enumerablr.cs" />
     <Compile Include="gototo.cs" />
     <Compile Include="JUMP.CS" />
     <Compile Include="lamda.cs" />
     <Compile Include="deleagteanonmous.cs" />
     <Compile Include="delegte.cs" />
+    <Compile Include="lineque_enumerabale.cs" />
     <Compile Include="Methoadoverring.cs" />
     <Compile Include="passbyout.cs" />
     <Compile Include="passbyreference.cs" />
