@@ -21,7 +21,7 @@ namespace reviewpractise
 
             Console.WriteLine("---------------------------------");
 
-
+            
             IEnumerator<int> nums= number.GetEnumerator();
 
             while (nums.MoveNext()) 

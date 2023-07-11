@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>reviewpractise.diff_enumable_emuntor</StartupObject>
+    <StartupObject>reviewpractise.Tlp</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,7 @@
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
+    <Compile Include="Tlp.cs" />
     <Compile Include="diff_enumable_emuntor.cs" />
     <Compile Include="enumerable1.cs" />
     <Compile Include="enumerablr.cs" />
