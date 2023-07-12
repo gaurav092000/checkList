@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>reviewpractise.Tlp</StartupObject>
+    <StartupObject>reviewpractise.ays_await1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,8 @@
     <Compile Include="array.cs" />
     <Compile Include="ArrayString.cs" />
     <Compile Include="arryinput.cs" />
+    <Compile Include="asys_awit.cs" />
+    <Compile Include="ays_await1.cs" />
     <Compile Include="Break.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
