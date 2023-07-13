@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>reviewpractise.lamda2</StartupObject>
+    <StartupObject>reviewpractise.Class1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -58,6 +58,7 @@
     <Compile Include="Class4.cs" />
     <Compile Include="lamda1.cs" />
     <Compile Include="lamda2.cs" />
+    <Compile Include="list.cs" />
     <Compile Include="Tlp.cs" />
     <Compile Include="diff_enumable_emuntor.cs" />
     <Compile Include="enumerable1.cs" />
