@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>reviewpractise.Class5</StartupObject>
+    <StartupObject>reviewpractise.instans1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -57,6 +57,8 @@
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
     <Compile Include="Class5.cs" />
+    <Compile Include="Class6.cs" />
+    <Compile Include="instans1.cs" />
     <Compile Include="lamda1.cs" />
     <Compile Include="lamda2.cs" />
     <Compile Include="list.cs" />
