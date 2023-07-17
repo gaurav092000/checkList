@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>reviewpractise.instans1</StartupObject>
+    <StartupObject>reviewpractise.Class8</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -58,10 +58,14 @@
     <Compile Include="Class4.cs" />
     <Compile Include="Class5.cs" />
     <Compile Include="Class6.cs" />
+    <Compile Include="Class7.cs" />
+    <Compile Include="Class8.cs" />
     <Compile Include="instans1.cs" />
     <Compile Include="lamda1.cs" />
     <Compile Include="lamda2.cs" />
     <Compile Include="list.cs" />
+    <Compile Include="pallindrom.cs" />
+    <Compile Include="static1.cs" />
     <Compile Include="Tlp.cs" />
     <Compile Include="diff_enumable_emuntor.cs" />
     <Compile Include="enumerable1.cs" />
