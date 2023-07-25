@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>reviewpractise.Class8</StartupObject>
+    <StartupObject>reviewpractise.encapsulation</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,8 @@
     <Compile Include="ays_await1.cs" />
     <Compile Include="Break.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Class10.cs" />
+    <Compile Include="Class11.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
@@ -60,6 +62,9 @@
     <Compile Include="Class6.cs" />
     <Compile Include="Class7.cs" />
     <Compile Include="Class8.cs" />
+    <Compile Include="Class9.cs" />
+    <Compile Include="encapsulation.cs" />
+    <Compile Include="in1.cs" />
     <Compile Include="instans1.cs" />
     <Compile Include="lamda1.cs" />
     <Compile Include="lamda2.cs" />

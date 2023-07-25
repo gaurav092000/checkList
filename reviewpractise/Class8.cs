@@ -14,6 +14,7 @@ namespace reviewpractise
             int max = 0;
             int second = 0;
             int third = 0;
+
             foreach (int n in arr)
 
             {
