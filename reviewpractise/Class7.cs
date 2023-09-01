@@ -24,7 +24,7 @@ namespace reviewpractise
             }
             if(count==2)
             {
-                Console.WriteLine("Its a prime ");
+                Console.WriteLine( n);
 
 
             }
@@ -32,7 +32,7 @@ namespace reviewpractise
             {
                 Console.WriteLine("its not a prime number");
             }
-            Console.ReadLine    ();
+            Console.ReadLine();
 
         }
     }
